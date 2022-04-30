@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "24b4b1e1-7a89-45f6-858c-242cf53b5bdb"
+            "value": "d1289bcc-c755-4df9-8d92-5edf31449f83"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/jth445600/HerokuXray/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/jth445600/HerokuXray",
-    "repository": "https://github.com/jth445600/HerokuXray",
+    "website": "https://github.com/kowoneoq/0430swi",
+    "repository": "https://github.com/kowoneoq/0430swi",
     "stack": "container"
 }
