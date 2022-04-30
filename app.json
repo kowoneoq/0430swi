@@ -29,7 +29,7 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/jth445600/HerokuXray/main/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/kowoneoq/0430swi/main/etc/StoreFiles"
         }
     },
     "website": "https://github.com/kowoneoq/0430swi",
